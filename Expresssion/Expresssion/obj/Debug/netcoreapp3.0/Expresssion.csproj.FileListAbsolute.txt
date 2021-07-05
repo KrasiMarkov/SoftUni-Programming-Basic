@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\bin\Debug\netcoreapp3.0\Expresssion.exe
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\bin\Debug\netcoreapp3.0\Expresssion.deps.json
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\bin\Debug\netcoreapp3.0\Expresssion.runtimeconfig.json
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\bin\Debug\netcoreapp3.0\Expresssion.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\bin\Debug\netcoreapp3.0\Expresssion.dll
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\bin\Debug\netcoreapp3.0\Expresssion.pdb
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\obj\Debug\netcoreapp3.0\Expresssion.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\obj\Debug\netcoreapp3.0\Expresssion.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\obj\Debug\netcoreapp3.0\Expresssion.dll
+C:\Users\Krasi\source\repos\Expresssion\Expresssion\obj\Debug\netcoreapp3.0\Expresssion.pdb
