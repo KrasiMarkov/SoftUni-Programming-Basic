@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\areaAB\areaAB\obj\Debug\netcoreapp3.0\areaAB.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\areaAB\areaAB\obj\Debug\netcoreapp3.0\areaAB.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\areaAB\areaAB\obj\Debug\netcoreapp3.0\areaAB.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\areaAB\areaAB\bin\Debug\netcoreapp3.0\areaAB.exe
+C:\Users\Krasi\source\repos\areaAB\areaAB\bin\Debug\netcoreapp3.0\areaAB.deps.json
+C:\Users\Krasi\source\repos\areaAB\areaAB\bin\Debug\netcoreapp3.0\areaAB.runtimeconfig.json
+C:\Users\Krasi\source\repos\areaAB\areaAB\bin\Debug\netcoreapp3.0\areaAB.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\areaAB\areaAB\bin\Debug\netcoreapp3.0\areaAB.dll
+C:\Users\Krasi\source\repos\areaAB\areaAB\bin\Debug\netcoreapp3.0\areaAB.pdb
+C:\Users\Krasi\source\repos\areaAB\areaAB\obj\Debug\netcoreapp3.0\areaAB.dll
+C:\Users\Krasi\source\repos\areaAB\areaAB\obj\Debug\netcoreapp3.0\areaAB.pdb
