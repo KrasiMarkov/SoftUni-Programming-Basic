@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.exe
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.deps.json
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.runtimeconfig.json
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.dll
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.0\RectangleArea.pdb
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.dll
+C:\Users\Krasi\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.0\RectangleArea.pdb
