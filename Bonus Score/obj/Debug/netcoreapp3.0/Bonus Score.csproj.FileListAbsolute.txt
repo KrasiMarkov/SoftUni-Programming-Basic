@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.exe
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.deps.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.runtimeconfig.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\bin\Debug\netcoreapp3.0\Bonus Score.pdb
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\obj\Debug\netcoreapp3.0\Bonus Score.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\obj\Debug\netcoreapp3.0\Bonus Score.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\obj\Debug\netcoreapp3.0\Bonus Score.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Bonus Score\obj\Debug\netcoreapp3.0\Bonus Score.pdb
