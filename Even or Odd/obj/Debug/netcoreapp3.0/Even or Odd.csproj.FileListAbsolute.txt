@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\bin\Debug\netcoreapp3.0\Even or Odd.exe
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\bin\Debug\netcoreapp3.0\Even or Odd.deps.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\bin\Debug\netcoreapp3.0\Even or Odd.runtimeconfig.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\bin\Debug\netcoreapp3.0\Even or Odd.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\bin\Debug\netcoreapp3.0\Even or Odd.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\bin\Debug\netcoreapp3.0\Even or Odd.pdb
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\obj\Debug\netcoreapp3.0\Even or Odd.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\obj\Debug\netcoreapp3.0\Even or Odd.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\obj\Debug\netcoreapp3.0\Even or Odd.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\obj\Debug\netcoreapp3.0\Even or Odd.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Even or Odd\obj\Debug\netcoreapp3.0\Even or Odd.pdb
