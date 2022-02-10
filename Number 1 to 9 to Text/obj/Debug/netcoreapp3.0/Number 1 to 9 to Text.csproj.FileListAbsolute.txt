@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\bin\Debug\netcoreapp3.0\Number 1 to 9 to Text.exe
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\bin\Debug\netcoreapp3.0\Number 1 to 9 to Text.deps.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\bin\Debug\netcoreapp3.0\Number 1 to 9 to Text.runtimeconfig.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\bin\Debug\netcoreapp3.0\Number 1 to 9 to Text.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\bin\Debug\netcoreapp3.0\Number 1 to 9 to Text.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\bin\Debug\netcoreapp3.0\Number 1 to 9 to Text.pdb
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\obj\Debug\netcoreapp3.0\Number 1 to 9 to Text.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\obj\Debug\netcoreapp3.0\Number 1 to 9 to Text.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\obj\Debug\netcoreapp3.0\Number 1 to 9 to Text.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\obj\Debug\netcoreapp3.0\Number 1 to 9 to Text.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Number 1 to 9 to Text\obj\Debug\netcoreapp3.0\Number 1 to 9 to Text.pdb
