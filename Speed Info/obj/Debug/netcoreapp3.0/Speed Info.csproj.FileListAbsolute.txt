@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.0\Speed Info.exe
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.0\Speed Info.deps.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.0\Speed Info.runtimeconfig.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.0\Speed Info.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.0\Speed Info.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.0\Speed Info.pdb
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.0\Speed Info.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.0\Speed Info.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.0\Speed Info.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.0\Speed Info.pdb
+C:\Users\Krasi\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.0\Speed Info.csprojAssemblyReference.cache
