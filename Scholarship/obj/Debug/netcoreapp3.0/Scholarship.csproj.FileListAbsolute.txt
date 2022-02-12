@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.0\Scholarship.exe
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.0\Scholarship.deps.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.0\Scholarship.runtimeconfig.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.0\Scholarship.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.0\Scholarship.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.0\Scholarship.pdb
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.0\Scholarship.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.0\Scholarship.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.0\Scholarship.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.0\Scholarship.pdb
+C:\Users\Krasi\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.0\Scholarship.csprojAssemblyReference.cache
