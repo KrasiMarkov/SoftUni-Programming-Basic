@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\bin\Debug\netcoreapp3.0\Swimming Record.exe
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\bin\Debug\netcoreapp3.0\Swimming Record.deps.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\bin\Debug\netcoreapp3.0\Swimming Record.runtimeconfig.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\bin\Debug\netcoreapp3.0\Swimming Record.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\bin\Debug\netcoreapp3.0\Swimming Record.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\bin\Debug\netcoreapp3.0\Swimming Record.pdb
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\obj\Debug\netcoreapp3.0\Swimming Record.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\obj\Debug\netcoreapp3.0\Swimming Record.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\obj\Debug\netcoreapp3.0\Swimming Record.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\obj\Debug\netcoreapp3.0\Swimming Record.dll
+C:\Users\Krasi\source\repos\Conditional-Statements\Swimming Record\obj\Debug\netcoreapp3.0\Swimming Record.pdb
