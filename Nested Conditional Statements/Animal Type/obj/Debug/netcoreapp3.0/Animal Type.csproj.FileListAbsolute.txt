@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\bin\Debug\netcoreapp3.0\Animal Type.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp3.0\Animal Type.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp3.0\Animal Type.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp3.0\Animal Type.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp3.0\Animal Type.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Animal Type\obj\Debug\netcoreapp3.0\Animal Type.pdb
