@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\bin\Debug\netcoreapp3.0\Fruit or Vegetable.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\bin\Debug\netcoreapp3.0\Fruit or Vegetable.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\bin\Debug\netcoreapp3.0\Fruit or Vegetable.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\bin\Debug\netcoreapp3.0\Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\bin\Debug\netcoreapp3.0\Fruit or Vegetable.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\bin\Debug\netcoreapp3.0\Fruit or Vegetable.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\obj\Debug\netcoreapp3.0\Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\obj\Debug\netcoreapp3.0\Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\obj\Debug\netcoreapp3.0\Fruit or Vegetable.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit or Vegetable\obj\Debug\netcoreapp3.0\Fruit or Vegetable.pdb
