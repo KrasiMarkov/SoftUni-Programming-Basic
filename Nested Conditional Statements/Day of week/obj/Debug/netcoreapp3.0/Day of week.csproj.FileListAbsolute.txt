@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\bin\Debug\netcoreapp3.0\Day of week.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\bin\Debug\netcoreapp3.0\Day of week.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\bin\Debug\netcoreapp3.0\Day of week.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\bin\Debug\netcoreapp3.0\Day of week.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\bin\Debug\netcoreapp3.0\Day of week.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\bin\Debug\netcoreapp3.0\Day of week.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\obj\Debug\netcoreapp3.0\Day of week.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\obj\Debug\netcoreapp3.0\Day of week.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\obj\Debug\netcoreapp3.0\Day of week.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\obj\Debug\netcoreapp3.0\Day of week.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Day of week\obj\Debug\netcoreapp3.0\Day of week.pdb
