@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp3.0\Hotel Room.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp3.0\Hotel Room.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp3.0\Hotel Room.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp3.0\Hotel Room.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp3.0\Hotel Room.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\bin\Debug\netcoreapp3.0\Hotel Room.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp3.0\Hotel Room.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp3.0\Hotel Room.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp3.0\Hotel Room.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp3.0\Hotel Room.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Hotel Room\obj\Debug\netcoreapp3.0\Hotel Room.pdb
