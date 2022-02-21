@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\bin\Debug\netcoreapp3.0\Fruit Shop.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\bin\Debug\netcoreapp3.0\Fruit Shop.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\bin\Debug\netcoreapp3.0\Fruit Shop.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\bin\Debug\netcoreapp3.0\Fruit Shop.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\bin\Debug\netcoreapp3.0\Fruit Shop.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\bin\Debug\netcoreapp3.0\Fruit Shop.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\obj\Debug\netcoreapp3.0\Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\obj\Debug\netcoreapp3.0\Fruit Shop.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\obj\Debug\netcoreapp3.0\Fruit Shop.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\obj\Debug\netcoreapp3.0\Fruit Shop.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Fruit Shop\obj\Debug\netcoreapp3.0\Fruit Shop.csprojAssemblyReference.cache
