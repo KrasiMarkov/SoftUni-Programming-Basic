@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp3.0\Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp3.0\Invalid Number.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp3.0\Invalid Number.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp3.0\Invalid Number.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Invalid Number\obj\Debug\netcoreapp3.0\Invalid Number.csprojAssemblyReference.cache
