@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\bin\Debug\netcoreapp3.0\New House.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\bin\Debug\netcoreapp3.0\New House.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\bin\Debug\netcoreapp3.0\New House.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\bin\Debug\netcoreapp3.0\New House.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\bin\Debug\netcoreapp3.0\New House.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\bin\Debug\netcoreapp3.0\New House.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\obj\Debug\netcoreapp3.0\New House.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\obj\Debug\netcoreapp3.0\New House.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\obj\Debug\netcoreapp3.0\New House.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\obj\Debug\netcoreapp3.0\New House.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\New House\obj\Debug\netcoreapp3.0\New House.pdb
