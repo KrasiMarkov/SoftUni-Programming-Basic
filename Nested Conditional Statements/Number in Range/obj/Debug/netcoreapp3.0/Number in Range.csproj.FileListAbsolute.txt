@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\bin\Debug\netcoreapp3.0\Number in Range.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\bin\Debug\netcoreapp3.0\Number in Range.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\bin\Debug\netcoreapp3.0\Number in Range.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\bin\Debug\netcoreapp3.0\Number in Range.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\bin\Debug\netcoreapp3.0\Number in Range.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\bin\Debug\netcoreapp3.0\Number in Range.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\obj\Debug\netcoreapp3.0\Number in Range.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\obj\Debug\netcoreapp3.0\Number in Range.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\obj\Debug\netcoreapp3.0\Number in Range.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Number in Range\obj\Debug\netcoreapp3.0\Number in Range.pdb
