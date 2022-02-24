@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\bin\Debug\netcoreapp3.0\Operations Between Numbers.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\bin\Debug\netcoreapp3.0\Operations Between Numbers.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\bin\Debug\netcoreapp3.0\Operations Between Numbers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\bin\Debug\netcoreapp3.0\Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\bin\Debug\netcoreapp3.0\Operations Between Numbers.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\bin\Debug\netcoreapp3.0\Operations Between Numbers.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\obj\Debug\netcoreapp3.0\Operations Between Numbers.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\obj\Debug\netcoreapp3.0\Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\obj\Debug\netcoreapp3.0\Operations Between Numbers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\obj\Debug\netcoreapp3.0\Operations Between Numbers.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Operations Between Numbers\obj\Debug\netcoreapp3.0\Operations Between Numbers.pdb
