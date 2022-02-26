@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\bin\Debug\netcoreapp3.0\Personal Titles.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\bin\Debug\netcoreapp3.0\Personal Titles.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\bin\Debug\netcoreapp3.0\Personal Titles.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\bin\Debug\netcoreapp3.0\Personal Titles.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\bin\Debug\netcoreapp3.0\Personal Titles.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\bin\Debug\netcoreapp3.0\Personal Titles.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\obj\Debug\netcoreapp3.0\Personal Titles.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\obj\Debug\netcoreapp3.0\Personal Titles.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\obj\Debug\netcoreapp3.0\Personal Titles.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\obj\Debug\netcoreapp3.0\Personal Titles.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Personal Titles\obj\Debug\netcoreapp3.0\Personal Titles.pdb
