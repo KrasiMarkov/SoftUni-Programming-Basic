@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\bin\Debug\netcoreapp3.0\Small Shop.exe
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\bin\Debug\netcoreapp3.0\Small Shop.deps.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\bin\Debug\netcoreapp3.0\Small Shop.runtimeconfig.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\bin\Debug\netcoreapp3.0\Small Shop.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\bin\Debug\netcoreapp3.0\Small Shop.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\bin\Debug\netcoreapp3.0\Small Shop.pdb
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\obj\Debug\netcoreapp3.0\Small Shop.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\obj\Debug\netcoreapp3.0\Small Shop.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\obj\Debug\netcoreapp3.0\Small Shop.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\obj\Debug\netcoreapp3.0\Small Shop.dll
+C:\Users\Krasi\source\repos\Nested Conditional Statements\Small Shop\obj\Debug\netcoreapp3.0\Small Shop.pdb
