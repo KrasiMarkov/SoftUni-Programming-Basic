@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Summer Outfit/1.0.0": {
+        "runtime": {
+          "Summer Outfit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Summer Outfit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
