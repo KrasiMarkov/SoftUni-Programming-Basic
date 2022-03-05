@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\While\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.exe
+C:\Users\Krasi\source\repos\While\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.deps.json
+C:\Users\Krasi\source\repos\While\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.runtimeconfig.json
+C:\Users\Krasi\source\repos\While\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\While\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.dll
+C:\Users\Krasi\source\repos\While\Account Balance\bin\Debug\netcoreapp3.0\Account Balance.pdb
+C:\Users\Krasi\source\repos\While\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\While\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\While\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\While\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.dll
+C:\Users\Krasi\source\repos\While\Account Balance\obj\Debug\netcoreapp3.0\Account Balance.pdb
