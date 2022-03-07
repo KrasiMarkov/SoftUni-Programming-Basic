@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\While\Graduation\bin\Debug\netcoreapp3.0\Graduation.exe
+C:\Users\Krasi\source\repos\While\Graduation\bin\Debug\netcoreapp3.0\Graduation.deps.json
+C:\Users\Krasi\source\repos\While\Graduation\bin\Debug\netcoreapp3.0\Graduation.runtimeconfig.json
+C:\Users\Krasi\source\repos\While\Graduation\bin\Debug\netcoreapp3.0\Graduation.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\While\Graduation\bin\Debug\netcoreapp3.0\Graduation.dll
+C:\Users\Krasi\source\repos\While\Graduation\bin\Debug\netcoreapp3.0\Graduation.pdb
+C:\Users\Krasi\source\repos\While\Graduation\obj\Debug\netcoreapp3.0\Graduation.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\While\Graduation\obj\Debug\netcoreapp3.0\Graduation.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\While\Graduation\obj\Debug\netcoreapp3.0\Graduation.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\While\Graduation\obj\Debug\netcoreapp3.0\Graduation.dll
+C:\Users\Krasi\source\repos\While\Graduation\obj\Debug\netcoreapp3.0\Graduation.pdb
