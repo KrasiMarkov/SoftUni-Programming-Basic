@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\While\Min Number\bin\Debug\netcoreapp3.0\Min Number.exe
+C:\Users\Krasi\source\repos\While\Min Number\bin\Debug\netcoreapp3.0\Min Number.deps.json
+C:\Users\Krasi\source\repos\While\Min Number\bin\Debug\netcoreapp3.0\Min Number.runtimeconfig.json
+C:\Users\Krasi\source\repos\While\Min Number\bin\Debug\netcoreapp3.0\Min Number.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\While\Min Number\bin\Debug\netcoreapp3.0\Min Number.dll
+C:\Users\Krasi\source\repos\While\Min Number\bin\Debug\netcoreapp3.0\Min Number.pdb
+C:\Users\Krasi\source\repos\While\Min Number\obj\Debug\netcoreapp3.0\Min Number.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\While\Min Number\obj\Debug\netcoreapp3.0\Min Number.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\While\Min Number\obj\Debug\netcoreapp3.0\Min Number.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\While\Min Number\obj\Debug\netcoreapp3.0\Min Number.dll
+C:\Users\Krasi\source\repos\While\Min Number\obj\Debug\netcoreapp3.0\Min Number.pdb
