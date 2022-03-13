@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\While\Old Books\bin\Debug\netcoreapp3.0\Old Books.exe
+C:\Users\Krasi\source\repos\While\Old Books\bin\Debug\netcoreapp3.0\Old Books.deps.json
+C:\Users\Krasi\source\repos\While\Old Books\bin\Debug\netcoreapp3.0\Old Books.runtimeconfig.json
+C:\Users\Krasi\source\repos\While\Old Books\bin\Debug\netcoreapp3.0\Old Books.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\While\Old Books\bin\Debug\netcoreapp3.0\Old Books.dll
+C:\Users\Krasi\source\repos\While\Old Books\bin\Debug\netcoreapp3.0\Old Books.pdb
+C:\Users\Krasi\source\repos\While\Old Books\obj\Debug\netcoreapp3.0\Old Books.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\While\Old Books\obj\Debug\netcoreapp3.0\Old Books.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\While\Old Books\obj\Debug\netcoreapp3.0\Old Books.dll
+C:\Users\Krasi\source\repos\While\Old Books\obj\Debug\netcoreapp3.0\Old Books.pdb
+C:\Users\Krasi\source\repos\While\Old Books\obj\Debug\netcoreapp3.0\Old Books.csprojAssemblyReference.cache
