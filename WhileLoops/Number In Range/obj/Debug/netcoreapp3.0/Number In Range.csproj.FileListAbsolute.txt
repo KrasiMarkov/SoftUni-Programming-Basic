@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\While\Number In Range\bin\Debug\netcoreapp3.0\Number In Range.exe
+C:\Users\Krasi\source\repos\While\Number In Range\bin\Debug\netcoreapp3.0\Number In Range.deps.json
+C:\Users\Krasi\source\repos\While\Number In Range\bin\Debug\netcoreapp3.0\Number In Range.runtimeconfig.json
+C:\Users\Krasi\source\repos\While\Number In Range\bin\Debug\netcoreapp3.0\Number In Range.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\While\Number In Range\bin\Debug\netcoreapp3.0\Number In Range.dll
+C:\Users\Krasi\source\repos\While\Number In Range\bin\Debug\netcoreapp3.0\Number In Range.pdb
+C:\Users\Krasi\source\repos\While\Number In Range\obj\Debug\netcoreapp3.0\Number In Range.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\While\Number In Range\obj\Debug\netcoreapp3.0\Number In Range.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\While\Number In Range\obj\Debug\netcoreapp3.0\Number In Range.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\While\Number In Range\obj\Debug\netcoreapp3.0\Number In Range.dll
+C:\Users\Krasi\source\repos\While\Number In Range\obj\Debug\netcoreapp3.0\Number In Range.pdb
