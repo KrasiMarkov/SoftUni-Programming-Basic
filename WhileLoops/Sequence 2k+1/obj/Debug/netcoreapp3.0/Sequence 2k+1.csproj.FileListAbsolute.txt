@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\bin\Debug\netcoreapp3.0\Sequence 2k+1.exe
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\bin\Debug\netcoreapp3.0\Sequence 2k+1.deps.json
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\bin\Debug\netcoreapp3.0\Sequence 2k+1.runtimeconfig.json
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\bin\Debug\netcoreapp3.0\Sequence 2k+1.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\bin\Debug\netcoreapp3.0\Sequence 2k+1.dll
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\bin\Debug\netcoreapp3.0\Sequence 2k+1.pdb
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\obj\Debug\netcoreapp3.0\Sequence 2k+1.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\obj\Debug\netcoreapp3.0\Sequence 2k+1.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\obj\Debug\netcoreapp3.0\Sequence 2k+1.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\obj\Debug\netcoreapp3.0\Sequence 2k+1.dll
+C:\Users\Krasi\source\repos\While\Sequence 2k+1\obj\Debug\netcoreapp3.0\Sequence 2k+1.pdb
