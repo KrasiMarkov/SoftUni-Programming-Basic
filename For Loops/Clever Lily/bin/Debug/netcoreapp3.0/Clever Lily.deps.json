@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Clever Lily/1.0.0": {
+        "runtime": {
+          "Clever Lily.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clever Lily/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
