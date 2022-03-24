@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\bin\Debug\netcoreapp3.0\Numbers Ending in 7.exe
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\bin\Debug\netcoreapp3.0\Numbers Ending in 7.deps.json
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\bin\Debug\netcoreapp3.0\Numbers Ending in 7.runtimeconfig.json
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\bin\Debug\netcoreapp3.0\Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\bin\Debug\netcoreapp3.0\Numbers Ending in 7.dll
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\bin\Debug\netcoreapp3.0\Numbers Ending in 7.pdb
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\obj\Debug\netcoreapp3.0\Numbers Ending in 7.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\obj\Debug\netcoreapp3.0\Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\obj\Debug\netcoreapp3.0\Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\obj\Debug\netcoreapp3.0\Numbers Ending in 7.dll
+C:\Users\Krasi\source\repos\For Loops\Numbers Ending in 7\obj\Debug\netcoreapp3.0\Numbers Ending in 7.pdb
