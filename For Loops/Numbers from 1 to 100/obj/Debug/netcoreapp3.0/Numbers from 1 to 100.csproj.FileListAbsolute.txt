@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\bin\Debug\netcoreapp3.0\Numbers from 1 to 100.exe
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\bin\Debug\netcoreapp3.0\Numbers from 1 to 100.deps.json
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\bin\Debug\netcoreapp3.0\Numbers from 1 to 100.runtimeconfig.json
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\bin\Debug\netcoreapp3.0\Numbers from 1 to 100.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\bin\Debug\netcoreapp3.0\Numbers from 1 to 100.dll
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\bin\Debug\netcoreapp3.0\Numbers from 1 to 100.pdb
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\obj\Debug\netcoreapp3.0\Numbers from 1 to 100.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\obj\Debug\netcoreapp3.0\Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\obj\Debug\netcoreapp3.0\Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\obj\Debug\netcoreapp3.0\Numbers from 1 to 100.dll
+C:\Users\Krasi\source\repos\For Loops\Numbers from 1 to 100\obj\Debug\netcoreapp3.0\Numbers from 1 to 100.pdb
