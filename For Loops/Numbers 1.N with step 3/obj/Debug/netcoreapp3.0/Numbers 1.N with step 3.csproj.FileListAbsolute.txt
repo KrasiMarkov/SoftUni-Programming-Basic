@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\bin\Debug\netcoreapp3.0\Numbers 1.N with step 3.exe
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\bin\Debug\netcoreapp3.0\Numbers 1.N with step 3.deps.json
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\bin\Debug\netcoreapp3.0\Numbers 1.N with step 3.runtimeconfig.json
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\bin\Debug\netcoreapp3.0\Numbers 1.N with step 3.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\bin\Debug\netcoreapp3.0\Numbers 1.N with step 3.dll
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\bin\Debug\netcoreapp3.0\Numbers 1.N with step 3.pdb
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\obj\Debug\netcoreapp3.0\Numbers 1.N with step 3.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\obj\Debug\netcoreapp3.0\Numbers 1.N with step 3.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\obj\Debug\netcoreapp3.0\Numbers 1.N with step 3.dll
+C:\Users\Krasi\source\repos\For Loops\Numbers 1.N with step 3\obj\Debug\netcoreapp3.0\Numbers 1.N with step 3.pdb
