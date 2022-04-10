@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\bin\Debug\netcoreapp3.0\World Snooker Championship.exe
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\bin\Debug\netcoreapp3.0\World Snooker Championship.deps.json
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\bin\Debug\netcoreapp3.0\World Snooker Championship.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\bin\Debug\netcoreapp3.0\World Snooker Championship.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\bin\Debug\netcoreapp3.0\World Snooker Championship.dll
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\bin\Debug\netcoreapp3.0\World Snooker Championship.pdb
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\obj\Debug\netcoreapp3.0\World Snooker Championship.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\obj\Debug\netcoreapp3.0\World Snooker Championship.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\obj\Debug\netcoreapp3.0\World Snooker Championship.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\obj\Debug\netcoreapp3.0\World Snooker Championship.dll
+C:\Users\Krasi\source\repos\Exam Preparation\World Snooker Championship\obj\Debug\netcoreapp3.0\World Snooker Championship.pdb
