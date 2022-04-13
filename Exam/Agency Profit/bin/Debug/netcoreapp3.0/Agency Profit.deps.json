@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Agency Profit/1.0.0": {
+        "runtime": {
+          "Agency Profit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agency Profit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
