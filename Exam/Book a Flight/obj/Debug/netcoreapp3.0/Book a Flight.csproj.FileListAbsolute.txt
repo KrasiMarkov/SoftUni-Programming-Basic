@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\obj\Debug\netcoreapp3.0\Book a Flight.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\obj\Debug\netcoreapp3.0\Book a Flight.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\obj\Debug\netcoreapp3.0\Book a Flight.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\bin\Debug\netcoreapp3.0\Book a Flight.exe
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\bin\Debug\netcoreapp3.0\Book a Flight.deps.json
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\bin\Debug\netcoreapp3.0\Book a Flight.runtimeconfig.json
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\bin\Debug\netcoreapp3.0\Book a Flight.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\bin\Debug\netcoreapp3.0\Book a Flight.dll
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\bin\Debug\netcoreapp3.0\Book a Flight.pdb
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\obj\Debug\netcoreapp3.0\Book a Flight.dll
+C:\Users\Krasi\source\repos\Oficialen izpit\Book a Flight\obj\Debug\netcoreapp3.0\Book a Flight.pdb
