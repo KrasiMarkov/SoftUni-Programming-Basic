@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\bin\Debug\netcoreapp3.0\Passengers Per Flight.exe
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\bin\Debug\netcoreapp3.0\Passengers Per Flight.deps.json
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\bin\Debug\netcoreapp3.0\Passengers Per Flight.runtimeconfig.json
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\bin\Debug\netcoreapp3.0\Passengers Per Flight.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\bin\Debug\netcoreapp3.0\Passengers Per Flight.dll
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\bin\Debug\netcoreapp3.0\Passengers Per Flight.pdb
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\obj\Debug\netcoreapp3.0\Passengers Per Flight.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\obj\Debug\netcoreapp3.0\Passengers Per Flight.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\obj\Debug\netcoreapp3.0\Passengers Per Flight.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\obj\Debug\netcoreapp3.0\Passengers Per Flight.dll
+C:\Users\Krasi\source\repos\Oficialen izpit\Passengers Per Flight\obj\Debug\netcoreapp3.0\Passengers Per Flight.pdb
